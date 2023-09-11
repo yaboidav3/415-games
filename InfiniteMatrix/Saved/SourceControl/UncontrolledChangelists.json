@@ -1,0 +1,28 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Program Files/Epic Games/UE_5.2/InfiniteMatrix/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"C:/Program Files/Epic Games/UE_5.2/InfiniteMatrix/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"C:/Program Files/Epic Games/UE_5.2/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Maps/TutorialMap.umap",
+				"C:/Program Files/Epic Games/UE_5.2/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"C:/Program Files/Epic Games/UE_5.2/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset",
+				"C:/Program Files/Epic Games/UE_5.2/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"C:/Program Files/Epic Games/UE_5.2/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/UI/WBP_Restart.uasset",
+				"C:/Program Files/Epic Games/UE_5.2/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/UI/Health_Bar.uasset",
+				"C:/Program Files/Epic Games/UE_5.2/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/UI/Score.uasset",
+				"C:/Program Files/Epic Games/UE_5.2/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Blueprints/BP_Health_Pack.uasset",
+				"C:/Program Files/Epic Games/UE_5.2/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Blueprints/BP_Bullet.uasset",
+				"C:/Program Files/Epic Games/UE_5.2/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Blueprints/BP_Enemy.uasset",
+				"C:/Program Files/Epic Games/UE_5.2/InfiniteMatrixStarter 5.2/Content/LPGenericPropsSet10/Materials/Grass/MI_GrassSet02.uasset",
+				"/Users/dzhu/Documents/415/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset",
+				"/Users/dzhu/Documents/415/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"/Users/dzhu/Documents/415/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Maps/TutorialMap.umap",
+				"/Users/dzhu/Documents/415/InfiniteMatrixStarter 5.2/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset"
+			]
+		}
+	]
+}
